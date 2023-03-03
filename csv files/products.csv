@@ -1,0 +1,541 @@
+product_id,description,brand_name,individual_category,original_price,discount_percentage,discounted_price ,ratings,reviews,gender
+1,us polo assn men maroon slim fit trousers,U.S. Polo Assn.,1,2199,50,1100,NULL,NULL,Men
+2,us polo assn men brown tapered fit trousers,U.S. Polo Assn.,1,2199,50,1100,NULL,NULL,Men
+3,us polo assn men black slim fit trousers,U.S. Polo Assn.,1,1799,10,1620,3.7,68,Men
+4,us polo assn men olive brown slim fit trousers,U.S. Polo Assn.,1,1799,10,1620,4.2,66,Men
+5,us polo assn navy printed slim fit cargo shorts,U.S. Polo Assn.,2,2499,50,1250,NULL,NULL,Men
+6,us polo assn black slim fit casual trousers,U.S. Polo Assn.,1,2599,10,2340,NULL,NULL,Men
+7,us polo assn yellow chino shorts,U.S. Polo Assn.,2,1799,50,900,NULL,NULL,Men
+8,tommy hilfiger blue linen denton straight fit chino trousers,Tommy Hilfiger,1,7999,NULL,7999,NULL,NULL,Men
+9,champion men white colourblock round neck t shirt,Champion,17,1899,NULL,1899,NULL,NULL,Men
+10,tommy hilfiger men blue skinny fit jeans,Tommy Hilfiger,3,8999,35,5850,NULL,NULL,Men
+11,tommy hilfiger women pink top,Tommy Hilfiger,30,2599,35,1690,NULL,NULL,Women
+12,forever 21 men red joggers,FOREVER 21,1,1259,NULL,1259,NULL,NULL,Men
+13,tommy hilfiger men blue straight fit solid casual trousers,Tommy Hilfiger,1,7999,45,4400,NULL,NULL,Men
+14,tommy hilfiger men blue slim fit mid rise mildly distressed stretchable jogger jeans,Tommy Hilfiger,3,8999,40,5400,4.8,4,Men
+15,champion black grey printed tight fit track pants,Champion,16,2499,NULL,2499,NULL,NULL,Women
+16,us polo assn men navy blue tailored fit solid casual shirt,U.S. Polo Assn.,7,2499,NULL,2499,4.4,60,Men
+17,us polo assn men khaki solid chino trousers,U.S. Polo Assn.,1,1999,NULL,1999,4.1,74,Men
+18,us polo assn men khaki slim fit solid chinos,U.S. Polo Assn.,1,2099,1,2079,4.2,332,Men
+19,tommy hilfiger men blue sancton slim fit solid chinos,Tommy Hilfiger,1,5999,30,4200,NULL,NULL,Men
+20,forever new women red slim fit solid regular trousers,Forever New,31,3800,70,1140,4.2,21,Women
+21,tommy hilfiger men blue skinny fit low rise clean look stretchable jeans,Tommy Hilfiger,3,6999,35,4550,NULL,NULL,Men
+22,tommy hilfiger men blue skinny fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,7999,40,4800,NULL,NULL,Men
+23,tommy hilfiger men blue straight fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+24,tommy hilfiger women navy blue red printed regular trousers,Tommy Hilfiger,31,4599,NULL,4599,NULL,NULL,Women
+25,tommy hilfiger women yellow checked v neck t shirt,Tommy Hilfiger,32,2599,30,1820,NULL,NULL,Women
+26,tommy hilfiger men blue skinny sydney fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,7999,50,4000,4.8,14,Men
+27,tommy hilfiger men khaki slim fit mid rise clean look jeans,Tommy Hilfiger,3,6999,50,3500,3.7,16,Men
+28,tommy hilfiger men blue slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,7999,35,5200,4.6,17,Men
+29,faballey women yellow black striped basic jumpsuit,FabAlley,33,2200,70,660,4.4,132,Women
+30,hm 2 pack vest sustainable pure cotton tops,H&M,30,799,NULL,799,4.3,858,Women
+31,hm men black twill trousers slim fit,H&M,1,1499,NULL,1499,4.4,467,Men
+32,hm men blue solid twill trousers slim fit,H&M,1,1499,NULL,1499,4.3,233,Men
+33,hm women black cotton sustainable leggings,H&M,34,799,NULL,799,4.5,660,Women
+34,tommy hilfiger men blue scanton slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,50,4500,NULL,NULL,Men
+35,tommy hilfiger men navy blue denton straight fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,7999,NULL,7999,NULL,NULL,Men
+36,tommy hilfiger men blue scanton slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,30,6300,2.7,3,Men
+37,tommy hilfiger men blue simon skinny fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,7999,40,4800,4,4,Men
+38,tommy hilfiger men blue simon skinny fit mid rise low distress stretchable jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+39,tommy hilfiger men yellow solid chino shorts,Tommy Hilfiger,2,3599,NULL,3599,NULL,NULL,Men
+40,tommy hilfiger men pink green checked regular fit shorts,Tommy Hilfiger,2,4599,30,3220,NULL,NULL,Men
+41,tommy hilfiger men navy blue checked insulator jacket,Tommy Hilfiger,8,12999,45,7150,2.5,4,Men
+42,tommy hilfiger men blue simon skinny fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+43,faballey women pink solid basic jumpsuit,FabAlley,33,2600,50,1300,4.4,38,Women
+44,hm men black suit sustainable trousers slim fit,H&M,1,2299,NULL,2299,3.9,63,Men
+45,faballey women maroon white striped basic jumpsuit,FabAlley,33,2200,50,1100,4.1,50,Women
+46,hm women black hooded top,H&M,28,1499,NULL,1499,4.5,616,Women
+47,hm men blue chinos slim fit stretch,H&M,1,1999,NULL,1999,4,31,Men
+48,tommy hilfiger men navy blue solid round neck pure cotton t shirt with printed detailing,Tommy Hilfiger,5,1599,30,1120,4,32,Men
+49,tommy hilfiger men navy blue white slim fit checked casual shirt,Tommy Hilfiger,7,4399,35,2860,4.1,15,Men
+50,tommy hilfiger men navy blue white regular fit checked casual shirt,Tommy Hilfiger,7,4799,30,3360,4.7,36,Men
+51,tommy hilfiger men blue red regular fit self checked casual shirt,Tommy Hilfiger,7,3999,30,2800,4.7,14,Men
+52,forever new women beige solid sheer shimmer effect open front shrug,Forever New,35,3600,NULL,3600,3.8,14,Women
+53,hm women mama 2 pack nursing sustainable top,H&M,30,1999,NULL,1999,4.3,22,Women
+54,tommy hilfiger men blue slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,40,5400,4.2,18,Men
+55,tommy hilfiger men grey solid slim fit casual shirt,Tommy Hilfiger,7,4599,35,2990,4.3,51,Men
+56,tommy hilfiger men blue ryan slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,8999,35,5850,4.3,9,Men
+57,tommy hilfiger men blue ryan straight fit mid rise clean look jeans,Tommy Hilfiger,3,6999,45,3850,4.2,23,Men
+58,tommy hilfiger men blue regular fit checked casual shirt,Tommy Hilfiger,7,3599,30,2520,NULL,NULL,Men
+59,tommy hilfiger men blue ryan straight fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,6999,35,4550,NULL,NULL,Men
+60,tommy hilfiger men grey slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,6999,35,4550,4.1,10,Men
+61,tommy hilfiger men blue beige regular fit checked casual shirt,Tommy Hilfiger,7,4799,40,2880,4.6,21,Men
+62,tommy hilfiger men blue slim fit mid rise clean look jeans,Tommy Hilfiger,3,4999,30,3500,4.5,27,Men
+63,tommy hilfiger men black slim fit solid casual shirt,Tommy Hilfiger,7,4599,30,3220,4.1,72,Men
+64,tommy hilfiger men blue scanton slim fit mid rise mildly distressed stretchable jeans,Tommy Hilfiger,3,8999,40,5400,4.3,9,Men
+65,tommy hilfiger men cream coloured slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,5999,40,3600,4.2,24,Men
+66,tommy hilfiger men blue simon slim fit mid rise clean look stretchable jeans,Tommy Hilfiger,3,5999,30,4200,4.4,31,Men
+67,tommy hilfiger men navy blue white checked slim fit casual shirt,Tommy Hilfiger,7,3999,30,2800,4.3,15,Men
+68,tommy hilfiger men navy blue solid regular fit chino shorts,Tommy Hilfiger,2,3999,30,2800,NULL,NULL,Men
+69,tommy hilfiger men white solid regular fit regular shorts,Tommy Hilfiger,2,3599,30,2520,NULL,NULL,Men
+70,hm men black premium cotton pure cotton t shirt,H&M,5,1299,NULL,1299,4.4,74,Men
+71,hm men black solid long sleeved jersey top,H&M,6,799,NULL,799,4.1,499,Men
+72,hm women black superstretch trousers,H&M,31,2299,NULL,2299,4.6,113,Women
+73,tommy hilfiger navy blue kaesha a line mini dress,Tommy Hilfiger,36,4999,30,3500,NULL,NULL,Women
+74,tommy hilfiger men maroon slim fit printed round neck t shirt,Tommy Hilfiger,17,2399,30,1680,3.2,11,Men
+75,hm men green raw edge pure cotton t shirt,H&M,5,799,NULL,799,4.2,244,Men
+76,hm men green twill trousers slim fit,H&M,1,1499,NULL,1499,4.1,58,Men
+77,tommy hilfiger men black straight fit solid joggers,Tommy Hilfiger,4,5999,NULL,5999,4.6,45,Men
+78,tommy hilfiger men green white slim fit checked casual shirt,Tommy Hilfiger,7,4799,30,3360,3.9,15,Men
+79,tommy hilfiger men red navy blue regular fit checked casual reversible shirt,Tommy Hilfiger,7,4999,35,3250,4.5,26,Men
+80,ucla men black printed round neck t shirt,UCLA,17,999,24,760,3.5,4,Men
+81,ucla men navy blue solid round neck t shirt,UCLA,17,799,22,624,4.3,3,Men
+82,ucla men black solid round neck t shirt,UCLA,17,799,22,624,4.4,5,Men
+83,ucla men fluorescent green printed round neck t shirt,UCLA,17,999,24,760,3.9,10,Men
+84,ucla men fluorescent green printed round neck t shirt,UCLA,17,999,24,760,3.3,6,Men
+85,ucla men grey melange printed lightweight hood t shirt,UCLA,17,2199,57,946,4.2,26,Men
+86,ucla men navy blue printed round neck t shirt,UCLA,17,899,21,711,4.4,25,Men
+87,ucla men black fluorescent green printed lightweight hooded sweatshirt,UCLA,15,2499,48,1300,NULL,NULL,Men
+88,ucla men grey solid round neck t shirt,UCLA,17,799,22,624,4.5,4,Men
+89,ucla men blue solid round neck t shirt,UCLA,17,799,22,624,NULL,NULL,Men
+90,hm women black mama sports tights,H&M,11,1999,50,1000,NULL,NULL,Women
+91,ucla men white blue ombre effect round neck running t shirt,UCLA,17,899,21,711,NULL,NULL,Men
+92,ucla men navy blue solid round neck running t shirt,UCLA,17,1199,37,756,3.8,5,Men
+93,ucla men blue white ombre effect round neck running t shirt,UCLA,17,1299,42,754,NULL,NULL,Men
+94,ucla men teal green solid round neck running t shirt,UCLA,17,999,24,760,4,8,Men
+95,ucla men orange white ombre effect round neck running t shirt,UCLA,17,999,45,550,4.1,16,Men
+96,ucla men navy blue solid round neck running t shirt,UCLA,17,999,24,760,NULL,NULL,Men
+97,ucla men navy blue grey printed round neck t shirt,UCLA,17,899,21,711,4.1,9,Men
+98,ucla men black solid round neck running t shirt,UCLA,17,899,21,711,5,7,Men
+99,ucla men grey black brand logo printed round neck running t shirt,UCLA,17,899,21,711,3.7,7,Men
+100,ucla men white orange ombre effect round neck running t shirt,UCLA,17,899,21,711,3.1,9,Men
+101,hm women white solid linen jersey top,H&M,30,1299,NULL,1299,4.3,97,Women
+102,hm women cotton t shirt dress,H&M,36,1299,NULL,1299,4.6,54,Women
+103,hm ribbed vest top,H&M,30,699,NULL,699,4.5,242,Women
+104,hm men navy blue solid cotton polo shirt,H&M,5,799,NULL,799,4.2,316,Men
+105,hm women black linen jersey top,H&M,30,1299,NULL,1299,3.4,16,Women
+106,hm men black sweatshirt shorts regular fit,H&M,2,1299,NULL,1299,4.6,82,Men
+107,hm men black slim fit solid regular trousers,H&M,1,2299,NULL,2299,5,1,Men
+108,hm women white black solid mama 2 pack nursing sustainable top,H&M,30,1499,50,750,NULL,NULL,Women
+109,hm women black oversized cotton shirt,H&M,25,1499,NULL,1499,4.4,604,Women
+110,hm men grey merino wool jumper slim fit,H&M,9,2999,NULL,2999,3.8,32,Men
+111,ucla men navy blue solid straight fit joggers,UCLA,4,1999,55,900,4.7,3,Men
+112,ucla men grey melange printed straight fit joggers,UCLA,4,1999,55,900,4.4,7,Men
+113,ucla men grey melange printed straight fit joggers,UCLA,4,1999,55,900,4.6,5,Men
+114,hm quilted outdoor jacket,H&M,23,3999,NULL,3999,4.3,20,Women
+115,ucla men grey melange black placement print hooded sleeveless sweatshirt,UCLA,15,2199,41,1298,3.7,10,Men
+116,ucla men grey melange brand logo print regular fit sports shorts,UCLA,14,1499,34,990,NULL,NULL,Men
+117,hm women black mama 2 pack nursing tops,H&M,30,1499,NULL,1499,4.7,42,Women
+118,hm women black cropped polo neck jumper,H&M,27,1299,NULL,1299,4.5,413,Women
+119,ucla women green navy solid round neck t shirt,UCLA,17,899,15,765,4.7,3,Women
+120,ucla women black solid tank top,UCLA,10,799,28,576,4.3,8,Women
+121,ucla women black solid mock collar t shirt,UCLA,17,1299,31,897,4.4,53,Women
+122,hm men navy blue solid track sweatshirt regular fit,H&M,15,2699,NULL,2699,4.3,39,Men
+123,hm men black white striped top,H&M,6,1299,NULL,1299,4.4,152,Men
+124,hm women black cotton jersey cycling shorts,H&M,26,699,NULL,699,4.6,787,Women
+125,hm men black cotton chinos,H&M,1,1999,NULL,1999,4.2,52,Men
+126,ucla women black solid round neck t shirt,UCLA,17,799,17,664,NULL,NULL,Women
+127,hm men blue dressy wool blend joggers,H&M,1,4499,50,2250,NULL,NULL,Men
+128,hm women black solid seamless sports sustainable tights,H&M,29,1499,NULL,1499,4.6,344,Women
+129,ucla men blue orange striped sweatshirt,UCLA,15,1799,35,1170,NULL,NULL,Men
+130,ucla women black solid tights,UCLA,11,1299,35,845,NULL,NULL,Women
+131,hm women black seamless sports jacket,H&M,23,1999,NULL,1999,NULL,NULL,Women
+132,hm mama 2 pack cotton vest sustainable sustainable tops,H&M,30,1299,NULL,1299,5,5,Women
+133,hm women black solid cotton blend shirt,H&M,25,1299,NULL,1299,4.4,29,Women
+134,faballey women pink white floral printed basic jumpsuit,FabAlley,33,2200,50,1100,4.7,19,Women
+135,hm men black solid running tights,H&M,11,1499,NULL,1499,4.6,68,Men
+136,hm women mama 2 pack jersey tops,H&M,30,1499,NULL,1499,4.9,17,Women
+137,hm women cotton black tie belt shirt dress,H&M,36,1999,NULL,1999,NULL,NULL,Women
+138,hm women black solid short viscose dress,H&M,36,2299,50,1150,NULL,NULL,Women
+139,hm women black solid ribbed jazz trousers,H&M,34,799,NULL,799,4.5,311,Women
+140,hm women black solid seamless running sustainable tights,H&M,34,2299,NULL,2299,4.7,9,Women
+141,hm women white solid linen shirt,H&M,25,1499,NULL,1499,4.7,313,Women
+142,us polo assn men beige austin trim fit geometric printed regular trousers,U.S. Polo Assn.,1,2199,40,1320,4.4,33,Men
+143,us polo assn men beige austin trim fit self design regular trousers,U.S. Polo Assn.,1,2299,45,1265,4.5,21,Men
+144,us polo assn men beige austin trim fit geometric printed regular trousers,U.S. Polo Assn.,1,2199,45,1210,4.4,34,Men
+145,us polo assn men olive green austin trim fit self design regular trousers,U.S. Polo Assn.,1,2199,25,1650,4.1,35,Men
+146,us polo assn men olive green austin trim fit solid regular trousers,U.S. Polo Assn.,1,2199,40,1320,3.9,56,Men
+147,us polo assn men navy blue austin trim fit solid regular trousers,U.S. Polo Assn.,1,2299,NULL,2299,4.7,69,Men
+148,us polo assn men green navy blue slim fit striped round neck pure cotton t shirt,U.S. Polo Assn.,5,1799,35,1170,4.6,363,Men
+149,u s polo assn men red crram coloured tailored fit printed casual shirt,U.S. Polo Assn.,7,2199,35,1430,4.1,134,Men
+150,us polo assn men blue white regular fit printed casual shirt,U.S. Polo Assn.,7,2199,10,1980,4.4,230,Men
+151,u s polo assn men white blue checked tailored fit cotton casual shirt,U.S. Polo Assn.,7,2299,35,1495,4.2,64,Men
+152,us polo assn men blue green tailored fit checked pure cotton twill weave casual shirt,U.S. Polo Assn.,7,2399,40,1440,4.5,195,Men
+153,us polo assn men beige regular fit printed casual shirt,U.S. Polo Assn.,7,2199,35,1430,4.4,80,Men
+154,u s polo assn men orange white tailored fit checked cotton casual shirt,U.S. Polo Assn.,7,2299,35,1495,4.1,87,Men
+155,us polo assn men navy blue tailored fit printed shirt,U.S. Polo Assn.,7,2199,40,1320,4.5,124,Men
+156,faballey women peach coloured brown printed basic jumpsuit,FabAlley,33,2300,50,1150,4.5,49,Women
+157,faballey women black white printed basic jumpsuit,FabAlley,33,2300,50,1150,4.7,12,Women
+158,faballey women purple printed basic jumpsuit,FabAlley,33,2200,50,1100,NULL,NULL,Women
+159,us polo assn men grey white regular fit printed cotton casual shirt,U.S. Polo Assn.,7,1999,40,1200,4.4,19,Men
+160,us polo assn men yellow regular fit printed casual cotton shirt,U.S. Polo Assn.,7,1999,40,1200,4.5,92,Men
+161,ucla men black solid track pants,UCLA,4,1699,40,1020,4.2,18,Men
+162,hm black ribbed vest top,H&M,30,399,NULL,399,4.4,0,Women
+163,hm women beige solid knitted sustainable dress,H&M,36,2999,50,1500,4.3,16,Women
+164,us polo assn men white regular fit printed cotton casual shirt,U.S. Polo Assn.,7,2199,40,1320,4.6,37,Men
+165,us polo assn men white regular fit checked casual shirt,U.S. Polo Assn.,7,2399,50,1200,4.5,35,Men
+166,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,2999,40,1800,4.2,26,Men
+167,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,2999,50,1500,3.9,20,Men
+168,us polo assn men blue slim fit mid rise low distress stretchable jeans,U.S. Polo Assn.,3,3399,50,1700,4.5,17,Men
+169,us polo assn men off white regular fit printed casual shirt,U.S. Polo Assn.,7,1999,48,1040,4.8,5,Men
+170,us polo assn men orange regular fit checked casual shirt,U.S. Polo Assn.,7,3199,50,1600,4.4,51,Men
+171,us polo assn women maroon colourblocked puffer jacket,U.S. Polo Assn.,23,5299,50,2650,3.4,15,Women
+172,us polo assn women blue solid quilted jacket,U.S. Polo Assn.,23,5299,50,2650,NULL,NULL,Women
+173,us polo assn men blue slim fit mid rise clean look stretchable jeans,U.S. Polo Assn.,3,3399,40,2040,4.3,12,Men
+174,us polo assn men blue slim fit mid rise clean cropped look jeans,U.S. Polo Assn.,3,3999,50,2000,4.2,61,Men
+175,us polo assn men blue slim tapered fit mid rise clean look jeans,U.S. Polo Assn.,3,3399,50,1700,3.9,21,Men
+176,hm women black cotton crop sustainable top,H&M,30,399,NULL,399,4.1,97,Women
+177,hm women white cotton crop sustainable top,H&M,30,399,NULL,399,4.1,190,Women
+178,ucla men black solid sweatshirt,UCLA,6,1899,40,1140,4.5,8,Men
+179,hm women black solid calf length t shirt dress,H&M,36,1499,NULL,1499,4.7,31,Women
+180,us polo assn men white blue regular fit printed pure cotton casual shirt,U.S. Polo Assn.,7,1999,48,1040,4.1,21,Men
+181,us polo assn men orange off white regular fit printed pure cotton casual shirt,U.S. Polo Assn.,7,2099,40,1260,4.2,24,Men
+182,us polo assn men yellow navy blue regular fit striped pure cotton casual shirt,U.S. Polo Assn.,7,2299,35,1495,NULL,NULL,Men
+183,hm men grey solid regular fit sweatshirt shorts,H&M,2,799,NULL,799,4.5,449,Men
+184,hm men black regular fit sweatshirt shorts,H&M,2,799,NULL,799,4.6,0,Men
+185,ucla men yellow solid regular shorts,UCLA,2,1299,50,650,3.9,11,Men
+186,us polo assn men red blue regular fit striped casual shirt,U.S. Polo Assn.,7,2299,40,1380,NULL,NULL,Men
+187,ucla men olive green solid regular fit cotton regular shorts,UCLA,2,1299,40,780,5,5,Men
+188,ucla men white solid hooded sweatshirt,UCLA,6,1899,40,1140,4.3,4,Men
+189,ucla men navy blue solid regular shorts,UCLA,2,1299,40,780,4.3,7,Men
+190,forever new women black solid open front shrug,Forever New,35,3600,NULL,3600,4.1,9,Women
+191,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,3599,50,1800,3.8,19,Men
+192,us polo assn men beige regular fit printed casual shirt,U.S. Polo Assn.,7,2299,50,1150,4.4,14,Men
+193,us polo assn men rust blue regular fit checked cotton casual shirt,U.S. Polo Assn.,7,2299,50,1150,4,6,Men
+194,us polo assn men white grey regular fit printed casual shirt,U.S. Polo Assn.,7,2199,40,1320,4.4,30,Men
+195,us polo assn men mustard grey regular fit checked cotton casual shirt,U.S. Polo Assn.,7,2399,50,1200,4,25,Men
+196,us polo assn men green regular fit printed cotton casual shirt,U.S. Polo Assn.,7,1999,48,1040,4.6,33,Men
+197,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,3399,50,1700,4.2,15,Men
+198,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,3999,50,2000,4.2,53,Men
+199,us polo assn men black slim fit jeans,U.S. Polo Assn.,3,2999,50,1500,4.1,35,Men
+200,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,3199,50,1600,3.9,15,Men
+201,u s polo assn men blue slim fit mildly distressed heavy fade jeans,U.S. Polo Assn.,3,3399,40,2040,4.4,17,Men
+202,us polo assn men blue slim fit jeans,U.S. Polo Assn.,3,2999,25,2250,4,54,Men
+203,us polo assn men yellow solid polo collar t shirt,U.S. Polo Assn.,5,1999,48,1040,4.2,174,Men
+204,ucla men black solid cotton slim fit track pants,UCLA,4,1699,40,1020,3.9,12,Men
+205,ucla men olive green solid cotton slim fit track pants,UCLA,4,1699,40,1020,NULL,NULL,Men
+206,ucla men off white solid cotton slim fit track pants,UCLA,4,1699,50,850,4.7,12,Men
+207,ucla men grey colourblocked regular fit sports shorts,UCLA,2,1199,17,996,NULL,NULL,Men
+208,faballey women pink solid tie up wrap jumpsuit,FabAlley,33,2300,50,1150,5,5,Women
+209,ucla men navy blue solid slim fit track pants,UCLA,4,1699,50,850,4.2,10,Men
+210,us polo assn men red solid polo collar t shirt,U.S. Polo Assn.,5,1899,50,950,4.5,55,Men
+211,us polo assn men blue regular fit solid casual shirt,U.S. Polo Assn.,7,2699,40,1620,3.9,14,Men
+212,us polo assn men red white regular fit checked casual shirt,U.S. Polo Assn.,7,2299,50,1150,4.3,21,Men
+213,us polo assn men navy blue off white striped cotton casual shirt,U.S. Polo Assn.,7,2499,40,1500,3.9,61,Men
+214,us polo assn men coral pink regular fit solid casual shirt,U.S. Polo Assn.,7,2699,25,2025,4.3,37,Men
+215,u s polo assn men coral red brand logo embroidered polo collar slim fit pure cotton t shirt,U.S. Polo Assn.,5,1999,40,1200,4.5,61,Men
+216,u s polo assn men blue brandon slim tapered fit mildly distressed light fade jeans,U.S. Polo Assn.,3,3599,40,2160,4.5,50,Men
+217,ucla men charcoal grey solid slim fit joggers,UCLA,4,1699,40,1020,4.9,7,Men
+218,ucla men navy blue white printed joggers,UCLA,4,1699,40,1020,3.7,6,Men
+219,u s polo assn men blue slim fit light fade stretchable jeans,U.S. Polo Assn.,3,3199,50,1600,4.1,81,Men
+220,u s polo assn blue midi dress,U.S. Polo Assn.,36,3699,50,1850,NULL,NULL,Women
+221,us polo assn women grey striped shirt dress,U.S. Polo Assn.,36,2799,40,1680,NULL,NULL,Women
+222,ucla women blue yellow solid tights,UCLA,11,1399,39,854,NULL,NULL,Women
+223,ucla women grey lime green colourblocked tights,UCLA,11,1399,39,854,NULL,NULL,Women
+224,hm women grey solid playsuit,H&M,33,1299,50,650,4.2,16,Women
+225,hm women yellow sleeveless shirt jacket,H&M,23,1999,50,1000,NULL,NULL,Women
+226,ucla men white mid rise sports shorts,UCLA,2,1299,40,780,4.3,10,Men
+227,u s polo assn women red printed sweatshirt,U.S. Polo Assn.,28,2299,50,1150,NULL,NULL,Women
+228,u s polo assn women red quilted jacket,U.S. Polo Assn.,23,5299,50,2650,4.5,26,Women
+229,forever new women pink slim fit regular trousers,Forever New,31,3800,55,1710,4.2,17,Women
+230,faballey womens black culotte jumpsuit,FabAlley,33,2600,50,1300,4.6,5,Women
+231,faballey white pink printed basic jumpsuit,FabAlley,33,2200,50,1100,4.2,23,Women
+232,hm women black solid linen basic jumpsuit,H&M,33,2999,50,1500,4.7,14,Women
+233,hm brown seamless jumpsuit,H&M,33,2999,50,1500,NULL,NULL,Women
+234,u s polo assn blue printed ethnic motifs dress with gathered detail,U.S. Polo Assn.,36,2499,40,1500,NULL,NULL,Women
+235,u s polo assn blue a line dress,U.S. Polo Assn.,36,2799,40,1680,NULL,NULL,Women
+236,u s polo assn men blue regallo skinny fit light fade jeans,U.S. Polo Assn.,3,3399,10,3060,4.8,5,Men
+237,hm women beige pleated skirt,H&M,18,2299,NULL,2299,NULL,NULL,Women
+238,u s polo assn men navy blue checked trousers,U.S. Polo Assn.,1,2299,45,1265,4.1,81,Men
+239,u s polo assn men black trousers,U.S. Polo Assn.,1,2499,NULL,2499,4.4,139,Men
+240,u s polo assn men grey trousers,U.S. Polo Assn.,1,2499,45,1375,4.1,140,Men
+241,u s polo assn men blue checked regular trousers,U.S. Polo Assn.,1,2299,45,1265,4.2,53,Men
+242,u s polo assn men khaki printed trousers,U.S. Polo Assn.,1,2299,45,1265,4.2,271,Men
+243,us polo assn men charcoal grey grey printed track pants,U.S. Polo Assn.,4,1399,35,910,4.3,56,Men
+244,faballey women pink white checked belted basic jumpsuit,FabAlley,33,2200,50,1100,NULL,NULL,Women
+245,faballey women white pink striped basic jumpsuit,FabAlley,33,2200,50,1100,4.3,7,Women
+246,faballey women black pink printed basic jumpsuit,FabAlley,33,2200,50,1100,NULL,NULL,Women
+247,u s polo assn men purple sporty jacket,U.S. Polo Assn.,8,5499,50,2750,NULL,NULL,Men
+248,ucla men grey printed cotton joggers,UCLA,4,1699,40,1020,5,3,Men
+249,ucla men white solid track pants,UCLA,4,1699,40,1020,NULL,NULL,Men
+250,ucla men charcoal grey solid slim fit joggers,UCLA,4,1699,56,748,3.8,12,Men
+251,ucla men charcoal grey solid slim fit joggers,UCLA,4,1699,53,799,4.4,12,Men
+252,ucla men black green colourblocked slim fit jogger,UCLA,4,1699,56,748,3.3,8,Men
+253,ucla men navy blue slim fit joggers,UCLA,4,1699,53,799,4.5,16,Men
+254,us polo assn men grey off white striped bomber jacket,U.S. Polo Assn.,8,5499,50,2750,NULL,NULL,Men
+255,us polo assn men navy blue printed bomber jacket,U.S. Polo Assn.,8,5499,50,2750,3.8,5,Men
+256,u s polo assn men navy blue and white mock collar colourblocked bomber jacket,U.S. Polo Assn.,8,5999,50,3000,4,9,Men
+257,u s polo assn men grey yarn dyed checked bomber jacket,U.S. Polo Assn.,8,5499,50,2750,4.4,10,Men
+258,u s polo assn men blue solid lightweight in stretch bomber jacket,U.S. Polo Assn.,8,6499,50,3250,4.5,6,Men
+259,u s polo assn men navy blue red colourblocked bomber jacket with logo print detailing,U.S. Polo Assn.,8,6499,50,3250,4.4,38,Men
+260,u s polo assn men navy blue yarn dyed checked mandarin collar bomber jacket,U.S. Polo Assn.,8,5499,50,2750,4.3,12,Men
+261,u s polo assn men black colourblocked cut and sew bomber jacket,U.S. Polo Assn.,8,5499,50,2750,4.5,10,Men
+262,u s polo assn men mustard yellow solid hooded sweatshirt,U.S. Polo Assn.,6,3299,50,1650,3.9,27,Men
+263,us polo assn men rust orange solid pure cotton sweatshirt with logo detail,U.S. Polo Assn.,6,3599,50,1800,3.8,10,Men
+264,u s polo assn men black brand logo printed pure cotton hooded sweatshirt,U.S. Polo Assn.,6,3799,50,1900,NULL,NULL,Men
+265,u s polo assn men charcoal grey printed sweatshirt,U.S. Polo Assn.,6,2199,40,1320,4,7,Men
+266,u s polo assn men navy blue brand logo printed hooded front open sweatshirt,U.S. Polo Assn.,6,3799,50,1900,4,29,Men
+267,u s polo assn men red printed sweatshirt,U.S. Polo Assn.,6,2199,40,1320,4.2,26,Men
+268,us polo assn men red white colourblocked sweatshirt with logo detail,U.S. Polo Assn.,6,3599,50,1800,4.4,22,Men
+269,us polo assn men yellow slim fit pure organic pure cotton organic cotton t shirt,U.S. Polo Assn.,5,2099,40,1260,4.1,37,Men
+270,us polo assn men red white striped pure cotton slim fit t shirt,U.S. Polo Assn.,5,2299,NULL,2299,NULL,NULL,Men
+271,u s polo assn men black self design austin trim fit casual trousers,U.S. Polo Assn.,1,2499,40,1500,4.4,10,Men
+272,u s polo assn men white navy blue typography printed polo collar t shirt,U.S. Polo Assn.,5,2199,40,1320,4.4,28,Men
+273,u s polo assn men navy blue self design austin trim fit casual trousers,U.S. Polo Assn.,1,2799,40,1680,4.6,22,Men
+274,u s polo assn men grey black checked austin trim fit trousers,U.S. Polo Assn.,1,2799,40,1680,4.9,15,Men
+275,u s polo assn men yellow green striped pure cotton t shirt,U.S. Polo Assn.,5,1799,42,1044,4.8,23,Men
+276,u s polo assn men beige textured austin trim fit casual trousers,U.S. Polo Assn.,1,2499,40,1500,3.8,9,Men
+277,u s polo assn men navy blue brand logo printed slim fit t shirt,U.S. Polo Assn.,5,999,35,650,4.5,32,Men
+278,u s polo assn men navy blue printed austin trim fit trousers,U.S. Polo Assn.,1,2299,40,1380,4.3,20,Men
+279,us polo assn men yellow polo collar slim fit pure cotton t shirt,U.S. Polo Assn.,5,1799,NULL,1799,NULL,NULL,Men
+280,u s polo assn men grey textured autin trim fit casual trousers,U.S. Polo Assn.,1,2499,40,1500,4.1,7,Men
+281,us polo assn men navy blue slim fit pure cotton t shirt,U.S. Polo Assn.,5,1999,40,1200,4.6,43,Men
+282,u s polo assn men blue printed austin trim fit trousers,U.S. Polo Assn.,1,2299,40,1380,4.1,22,Men
+283,u s polo assn men grey solid austin trim fit regular trousers,U.S. Polo Assn.,1,2799,40,1680,4.2,33,Men
+284,u s polo assn men grey solid slim fit regular trousers,U.S. Polo Assn.,1,2399,40,1440,4.6,31,Men
+285,ucla men black solid mid rise casual shorts,UCLA,2,1299,40,780,4.4,9,Men
+286,ucla men grey melange blue colour blocked tracksuit,UCLA,12,4499,58,1890,NULL,NULL,Men
+287,ucla men black solid cotton slim fit track pants,UCLA,4,1699,40,1020,NULL,NULL,Men
+288,ucla men grey melange solid slim fit track pants,UCLA,4,1699,40,1020,NULL,NULL,Men
+289,hm women black solid slit detail skirt,H&M,18,2299,50,1150,NULL,NULL,Women
+290,u s polo assn men orange pullover sweater,U.S. Polo Assn.,9,3199,60,1280,4.8,12,Men
+291,hm women green solid linen blend playsuit,H&M,33,4499,NULL,4499,NULL,NULL,Women
+292,ucla men olive green black solid cotton track pants,UCLA,4,1699,40,1020,NULL,NULL,Men
+293,hm women white solid pack of 5 sports socks,H&M,13,799,NULL,799,4.8,17,Women
+294,hm women grey solid seamless sports tights,H&M,29,1999,NULL,1999,4.6,16,Women
+295,hm black solid ribbed playsuit,H&M,33,1499,NULL,1499,NULL,NULL,Women
+296,faballey women teal jumpsuit with belt,FabAlley,33,2400,50,1200,4.3,77,Women
+297,faballey women black geo buttoned puff sleeve jumpsuit,FabAlley,33,2400,NULL,2400,4.4,5,Women
+298,u s polo assn men blue chinos trousers,U.S. Polo Assn.,1,2299,40,1380,NULL,NULL,Men
+299,u s polo assn men olive green casual trousers,U.S. Polo Assn.,1,2299,40,1380,4.2,6,Men
+300,u s polo assn men blue striped casual trousers,U.S. Polo Assn.,1,2299,50,1150,4.8,6,Men
+301,u s polo assn men grey chinos trousers,U.S. Polo Assn.,1,2299,20,1840,3.9,13,Men
+302,u s polo assn men grey chinos trousers,U.S. Polo Assn.,1,2299,40,1380,NULL,NULL,Men
+303,u s polo assn men black t shirt,U.S. Polo Assn.,5,999,35,650,4.3,31,Men
+304,u s polo assn men green typography printed polo collar applique t shirt,U.S. Polo Assn.,5,1899,50,950,4.6,15,Men
+305,u s polo assn men blue printed polo collar applique t shirt,U.S. Polo Assn.,5,1899,50,950,5,19,Men
+306,u s polo assn men olive green mid rise regular shorts,U.S. Polo Assn.,2,2299,40,1380,NULL,NULL,Men
+307,u s polo assn men blue printed mid rise regular shorts,U.S. Polo Assn.,2,1899,50,950,4.7,15,Men
+308,u s polo assn men white floral printed mid rise regular shorts,U.S. Polo Assn.,2,1899,40,1140,NULL,NULL,Men
+309,u s polo assn men grey heavy fade stretchable jeans,U.S. Polo Assn.,3,3199,20,2560,4.1,19,Men
+310,u s polo assn men blue slim fit heavy fade jeans,U.S. Polo Assn.,3,3599,50,1800,3.3,6,Men
+311,u s polo assn men blue slim fit heavy distress non stretchable slim fit jeans,U.S. Polo Assn.,3,3599,50,1800,NULL,NULL,Men
+312,u s polo assn men blue heavy fade stretchable jeans,U.S. Polo Assn.,3,3599,40,2160,NULL,NULL,Men
+313,faballey women yellow printed,FabAlley,33,2200,50,1100,NULL,NULL,Women
+314,faballey women beige printed,FabAlley,33,2200,50,1100,NULL,NULL,Women
+315,faballey navy blue printed basic jumpsuit,FabAlley,33,2200,50,1100,NULL,NULL,Women
+316,hm women beige solid oversized lyocell jacket,H&M,19,5499,NULL,5499,NULL,NULL,Women
+317,hm women beige solid ribbed bolero jacket,H&M,23,799,NULL,799,4.1,27,Women
+318,us polo assn men red printed regular shorts,U.S. Polo Assn.,2,1499,40,900,4.8,11,Men
+319,u s polo assn men blue camouflage printed regular shorts,U.S. Polo Assn.,2,1699,50,850,4.2,17,Men
+320,us polo assn men grey melange printed regular shorts,U.S. Polo Assn.,2,1499,40,900,4.1,14,Men
+321,u s polo assn men navy blue regular shorts,U.S. Polo Assn.,2,1499,NULL,1499,4.1,56,Men
+322,u s polo assn men charcoal solid regular shorts,U.S. Polo Assn.,2,1499,40,900,4.3,12,Men
+323,u s polo assn men red typography printed regular shorts,U.S. Polo Assn.,2,1499,40,900,5,3,Men
+324,us polo assn men navy blue solid regular shorts,U.S. Polo Assn.,2,1499,40,900,4,23,Men
+325,us polo assn men navy blue typography printed regular shorts,U.S. Polo Assn.,2,1499,40,900,4.5,26,Men
+326,u s polo assn men olive green regular shorts,U.S. Polo Assn.,2,1499,40,900,4.4,35,Men
+327,faballey women pink solid jumpsuit with tie up belt,FabAlley,33,2400,50,1200,NULL,NULL,Women
+328,forever new women black skinny fit trousers,Forever New,31,3800,NULL,3800,4.8,8,Women
+329,hm women green tulip skirt,H&M,18,1999,50,1000,NULL,NULL,Women
+330,hm women orange coloured maxi skirt,H&M,18,2299,NULL,2299,NULL,NULL,Women
+331,hm men blue skinny jeans,H&M,3,1499,NULL,1499,4.2,65,Men
+332,hm women black oversized lyocell jacket,H&M,19,5499,NULL,5499,NULL,NULL,Women
+333,faballey women purple solid sleeveless jumpsuit with gathers,FabAlley,33,2200,50,1100,3.9,17,Women
+334,ucla men blue pullover,UCLA,9,1499,40,900,NULL,NULL,Men
+335,ucla men navy blue regular shorts,UCLA,2,1299,40,780,NULL,NULL,Men
+336,ucla men grey regular shorts,UCLA,2,1299,40,780,NULL,NULL,Men
+337,hm women off white ribbed leggings,H&M,34,1299,NULL,1299,4.4,12,Women
+338,faballey women sea green basic jumpsuit with ruffles,FabAlley,33,2200,50,1100,NULL,NULL,Women
+339,hm women beige white printed pure cotton oversized cotton shirt jacket,H&M,23,2299,NULL,2299,4.8,5,Women
+340,hm women beige self design seamless sports tights,H&M,34,1999,NULL,1999,5,5,Women
+341,hm women beige ribbed playsuit,H&M,33,1499,NULL,1499,NULL,NULL,Women
+342,hm woman beige flounce trimmed playsuit,H&M,33,4499,NULL,4499,NULL,NULL,Women
+343,hm women black broderie detail jumpsuit,H&M,33,5999,NULL,5999,NULL,NULL,Women
+344,hm women black checked sleeveless shirts,H&M,23,2299,NULL,2299,NULL,NULL,Women
+345,hm women blue seamless leggings,H&M,34,1499,NULL,1499,4.3,19,Women
+346,hm women brown solid oversized jacket,H&M,19,2699,NULL,2699,3.5,52,Women
+347,hm women black white block coloured jacket,H&M,23,2999,NULL,2999,4.5,49,Women
+348,hm women black red block coloured leggings,H&M,34,1499,NULL,1499,3.1,10,Women
+349,hm navy blue chiffon skirt,H&M,18,2299,NULL,2299,NULL,NULL,Women
+350,hm women beige ribbed leggings,H&M,34,1499,NULL,1499,4.6,5,Women
+351,hm women grey ribbed modal blend playsuit,H&M,33,1999,NULL,1999,NULL,NULL,Women
+352,hm women beige oversized jacket,H&M,19,2999,NULL,2999,3.8,12,Women
+353,hm women white beige quilted gilet,H&M,23,2999,NULL,2999,4.3,3,Women
+354,hm men black grey regular fit track jacket,H&M,8,2699,NULL,2699,4.8,8,Men
+355,forever new women black louise pu waterfall jacket,Forever New,23,7400,30,5180,NULL,NULL,Women
+356,hm women black seamless jumpsuit,H&M,33,2299,NULL,2299,NULL,NULL,Women
+357,hm women beige sleeveless unitard,H&M,33,1499,NULL,1499,NULL,NULL,Women
+358,hm women grey solid notched lapel sleeveless jacket,H&M,19,2299,NULL,2299,4.8,10,Women
+359,hm women grey solid sleeveless jacket,H&M,19,1999,NULL,1999,2.2,5,Women
+360,hm women black solid slim high ankle jeans,H&M,24,1499,NULL,1499,4.4,146,Women
+361,hm women grey solid distressed embrace high ankle jeans,H&M,24,2699,NULL,2699,4.2,13,Women
+362,hm woman blue lyocell jumpsuit,H&M,33,1999,NULL,1999,3.3,3,Women
+363,hm woman beige long coat,H&M,20,4499,NULL,4499,4.7,12,Women
+364,hm woman beige wool blend coat,H&M,20,9999,NULL,9999,NULL,NULL,Women
+365,hm women brown solid double breasted knee length patent coat,H&M,20,5499,NULL,5499,4,9,Women
+366,ucla men black colourblocked hooded sweatshirt,UCLA,6,1899,40,1140,NULL,NULL,Men
+367,hm woman black quilted outdoor coat,H&M,20,4499,NULL,4499,4.8,8,Women
+368,forever new black off white floral midi dress,Forever New,36,6800,54,3128,4,19,Women
+369,hm women black jersey playsuit,H&M,33,1299,NULL,1299,NULL,NULL,Women
+370,forever new maroon off shoulder bodycon dress,Forever New,36,6800,35,4420,4.8,5,Women
+371,forever new black embellished a line dress,Forever New,36,8600,40,5160,4,20,Women
+372,forever new women gold toned pullover,Forever New,27,5400,45,2970,4.5,8,Women
+373,forever new maroon a line midi dress,Forever New,36,6800,40,4080,4.5,11,Women
+374,ucla men navy blue hooded sweatshirt,UCLA,6,1899,40,1140,NULL,NULL,Men
+375,ucla men navy blue hooded cotton sweatshirt,UCLA,6,1899,40,1140,NULL,NULL,Men
+376,forever new women olive green solid carla crombie overcoat,Forever New,20,9000,36,5760,4.1,18,Women
+377,us polo assn men blue solid straight fit joggers,U.S. Polo Assn.,4,2199,35,1430,4.5,8,Men
+378,us polo assn men olive green solid straight fit joggers,U.S. Polo Assn.,4,2199,35,1430,NULL,NULL,Men
+379,hm men blue slim jeans,H&M,3,1499,NULL,1499,4.2,78,Men
+380,hm men blue hybrid regular tapered joggers,H&M,3,2699,NULL,2699,3.4,5,Men
+381,hm men grey hybrid regular tapered joggers,H&M,3,2699,NULL,2699,4.6,21,Men
+382,forever new women black high rise trousers,Forever New,31,4600,31,3174,3.7,6,Women
+383,forever new green satin a line midi dress,Forever New,36,8000,NULL,8000,NULL,NULL,Women
+384,forever new women blue tapered fit high rise pleated trousers,Forever New,31,4000,25,3000,4.5,8,Women
+385,forever new women blue washed crop denim jacket,Forever New,23,5000,NULL,5000,NULL,NULL,Women
+386,forever new navy blue shirt dress,Forever New,36,5200,40,3120,4,2,Women
+387,forever new pink green floral midi dress,Forever New,36,8000,NULL,8000,NULL,NULL,Women
+388,forever new women black solid faux fur trim hooded parka longline overcoat,Forever New,20,12000,40,7200,4.2,10,Women
+389,forever new women pink white printed flared midi skirt,Forever New,18,4600,24,3496,4.8,5,Women
+390,forever new women green solid pleated flared midi skirt,Forever New,18,4400,25,3300,NULL,NULL,Women
+391,hm women brown solid seamless sports tights,H&M,11,1499,NULL,1499,4.4,38,Women
+392,hm women blue seamless sports tights,H&M,29,1499,NULL,1499,4.2,16,Women
+393,forever new women black solid relaxed fit open front casual petite blazer,Forever New,19,6200,NULL,6200,NULL,NULL,Women
+394,forever new women black double breasted tailored fit blazer,Forever New,19,7400,33,4958,4.7,9,Women
+395,ucla men black solid regular fit joggers,UCLA,4,2099,55,945,NULL,NULL,Men
+396,ucla women black solid tights,UCLA,11,999,13,870,NULL,NULL,Women
+397,forever new women black floral printed regular fit midi skirt,Forever New,18,4200,36,2688,NULL,NULL,Women
+398,forever new women black straight fit high rise linen trousers,Forever New,31,3600,31,2484,NULL,NULL,Women
+399,forever new women cream coloured floral printed accordian pleated flared midi skirt,Forever New,18,4400,34,2904,NULL,NULL,Women
+400,tommy hilfiger women red solid mid rise regular shorts,Tommy Hilfiger,26,2799,10,2520,NULL,NULL,Women
+401,tommy hilfiger women pink solid mid rise regular shorts,Tommy Hilfiger,26,2799,10,2520,NULL,NULL,Women
+402,tommy hilfiger white embroidered t shirt dress,Tommy Hilfiger,36,2999,20,2400,NULL,NULL,Women
+403,tommy hilfiger blue white striped shirt dress,Tommy Hilfiger,36,4999,NULL,4999,4.8,5,Women
+404,tommy hilfiger pink embroidered drop shoulder sleeves t shirt dress,Tommy Hilfiger,36,2999,20,2400,NULL,NULL,Women
+405,tommy hilfiger women orange printed organic cotton t shirt dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+406,tommy hilfiger navy blue embroidered drop shoulder sleeves t shirt dress,Tommy Hilfiger,36,2999,20,2400,NULL,NULL,Women
+407,tommy hilfiger black applique drop shoulder sleeves t shirt dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+408,tommy hilfiger white applique drop shoulder sleeves t shirt dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+409,tommy hilfiger beige solid cotton t shirt dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+410,tommy hilfiger coral orange solid bodycon dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+411,tommy hilfiger pink strapless bodycon dress with embroidery,Tommy Hilfiger,36,3599,20,2880,3.7,6,Women
+412,tommy hilfiger women black high rise paperbag trousers,Tommy Hilfiger,31,4599,NULL,4599,NULL,NULL,Women
+413,tommy hilfiger black strapless bodycon dress with embroidery,Tommy Hilfiger,36,3599,20,2880,4.4,5,Women
+414,tommy hilfiger black solid bodycon dress,Tommy Hilfiger,36,3599,20,2880,NULL,NULL,Women
+415,tommy hilfiger women black organic cotton sheath dress,Tommy Hilfiger,36,3599,NULL,3599,NULL,NULL,Women
+416,tommy hilfiger men grey slim fit mid rise stretchable jeans,Tommy Hilfiger,3,6999,NULL,6999,NULL,NULL,Men
+417,tommy hilfiger men blue simon skinny fit heavy fade stretchable jeans,Tommy Hilfiger,3,7999,NULL,7999,NULL,NULL,Men
+418,tommy hilfiger men grey skinny fit stretchable jeans,Tommy Hilfiger,3,6999,NULL,6999,NULL,NULL,Men
+419,tommy hilfiger men blue skinny simon fit light fade mid rise stretchable jeans,Tommy Hilfiger,3,7999,NULL,7999,NULL,NULL,Men
+420,tommy hilfiger men blue slim fit heavy fade stretchable jeans,Tommy Hilfiger,3,8999,NULL,8999,NULL,NULL,Men
+421,tommy hilfiger men blue scanton slim fit stretchable jeans,Tommy Hilfiger,3,8999,NULL,8999,NULL,NULL,Men
+422,tommy hilfiger men blue slim fit heavy fade stretchable casual jeans,Tommy Hilfiger,3,9999,NULL,9999,NULL,NULL,Men
+423,tommy hilfiger men blue scanton slim fit low distress light fade stretchable jeans,Tommy Hilfiger,3,8999,NULL,8999,NULL,NULL,Men
+424,tommy hilfiger men navy blue embroidered relaxed pure cotton joggers fit trousers,Tommy Hilfiger,1,8999,NULL,8999,NULL,NULL,Men
+425,tommy hilfiger men black polo collar slim fit t shirt,Tommy Hilfiger,5,2799,NULL,2799,NULL,NULL,Men
+426,tommy hilfiger men blue white striped polo collar pure cotton t shirt,Tommy Hilfiger,5,2999,NULL,2999,NULL,NULL,Men
+427,forever new women pink slim fit chinos trousers,Forever New,31,3800,NULL,3800,NULL,NULL,Women
+428,forever new women green solid straight midi skirt,Forever New,18,4200,36,2688,NULL,NULL,Women
+429,forever new women white floral printed high rise trousers,Forever New,31,4600,31,3174,NULL,NULL,Women
+430,forever new women beige floral printed flared high rise pleated trousers,Forever New,31,4600,NULL,4600,NULL,NULL,Women
+431,forever new women pink high rise pleated pure linen bootcut trousers,Forever New,31,4600,NULL,4600,NULL,NULL,Women
+432,tommy hilfiger men navy blue textured chinos,Tommy Hilfiger,1,7999,30,5600,NULL,NULL,Men
+433,tommy hilfiger men blue slim fit high rise light fade clean look jeans,Tommy Hilfiger,3,6999,30,4900,NULL,NULL,Men
+434,tommy hilfiger men blue slim fit mid rise light fade jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+435,tommy hilfiger men grey skinny fit mid rise heavy fade stretchable jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+436,tommy hilfiger men blue skinny fit light fade jeans,Tommy Hilfiger,3,8999,30,6300,NULL,NULL,Men
+437,forever new women sage green slim fit high rise trousers,Forever New,31,3800,NULL,3800,NULL,NULL,Women
+438,hm women blue solid denim dungarees,H&M,21,2999,NULL,2999,4.8,19,Women
+439,forever new women yellow skirts,Forever New,18,4800,NULL,4800,NULL,NULL,Women
+440,forever new pink harper pleated midi skirt,Forever New,18,4400,NULL,4400,NULL,NULL,Women
+441,forever new pink katerina belted tiered skirt,Forever New,18,5200,NULL,5200,NULL,NULL,Women
+442,forever new women black high rise bootcut trousers,Forever New,31,4600,NULL,4600,NULL,NULL,Women
+443,forever new women black high rise trousers,Forever New,31,4200,NULL,4200,3.8,5,Women
+444,forever new women green slim fit trousers 65 cotton,Forever New,31,3800,NULL,3800,NULL,NULL,Women
+445,forever new women yellow solid accordion pleated flared midi skirt,Forever New,18,4400,NULL,4400,NULL,NULL,Women
+446,forever new women pink printed flared mini skirt,Forever New,18,3600,NULL,3600,NULL,NULL,Women
+447,forever new red solid basic jumpsuit,Forever New,33,7800,NULL,7800,NULL,NULL,Women
+448,forever new women pink slim fit high rise shorts,Forever New,26,4000,NULL,4000,3.7,3,Women
+449,forever new women red high rise culottes trousers,Forever New,31,4200,NULL,4200,NULL,NULL,Women
+450,forever new women green high rise pleated trousers,Forever New,31,4600,35,2990,NULL,NULL,Women
+451,forever new women multicoloured floral printed high rise trousers,Forever New,31,4800,NULL,4800,NULL,NULL,Women
+452,forever new women blue high rise trousers,Forever New,31,4400,NULL,4400,NULL,NULL,Women
+453,forever new women white blue floral printed accordian pleated flared midi skirt,Forever New,18,4400,NULL,4400,NULL,NULL,Women
+454,u s polo assn women white striped sweatshirt,U.S. Polo Assn.,28,2499,50,1250,NULL,NULL,Women
+455,u s polo assn men red typography printed raw edge t shirt,U.S. Polo Assn.,5,1199,40,720,NULL,NULL,Men
+456,u s polo assn men blue slim fit light fade stretchable jeans,U.S. Polo Assn.,3,2299,20,1840,NULL,NULL,Men
+457,us polo assn men grey skinny fit stretchable jeans,U.S. Polo Assn.,3,2299,20,1840,NULL,NULL,Men
+458,u s polo assn men blue skinny fit light fade jeans,U.S. Polo Assn.,3,2299,20,1840,NULL,NULL,Men
+459,us polo assn men blue skinny fit light fade stretchable jeans,U.S. Polo Assn.,3,2499,20,2000,NULL,NULL,Men
+460,u s polo assn men blue brandon slim tapered fit light fade stretchable jeans,U.S. Polo Assn.,3,2499,20,2000,NULL,NULL,Men
+461,forever new women blue solid pleated flared midi skirt,Forever New,18,5000,NULL,5000,NULL,NULL,Women
+462,u s polo assn men blue slim fit low distress light fade jeans,U.S. Polo Assn.,3,2999,50,1500,NULL,NULL,Men
+463,u s polo assn men blue slim fit heavy fade jeans,U.S. Polo Assn.,3,2999,50,1500,NULL,NULL,Men
+464,u s polo assn men blue slim fit low distress heavy fade jeans,U.S. Polo Assn.,3,3499,50,1750,NULL,NULL,Men
+465,u s polo assn men blue slim fit heavy fade jeans,U.S. Polo Assn.,3,3299,50,1650,NULL,NULL,Men
+466,u s polo assn men blue slim fit mildly distressed light fade jeans,U.S. Polo Assn.,3,2999,50,1500,NULL,NULL,Men
+467,u s polo assn men blue slim fit low distress heavy fade jeans,U.S. Polo Assn.,3,2999,50,1500,NULL,NULL,Men
+468,u s polo assn men blue slim fit light fade jeans,U.S. Polo Assn.,3,2999,50,1500,NULL,NULL,Men
+469,u s polo assn men blue slim fit low distress heavy fade jeans,U.S. Polo Assn.,3,3299,50,1650,NULL,NULL,Men
+470,hm women navy blue seamless sports tights,H&M,11,1999,NULL,1999,NULL,NULL,Women
+471,hm women grey high waist shaping dry fit tights,H&M,11,2699,NULL,2699,NULL,NULL,Women
+472,hm white relaxed fit cotton t shirt,H&M,5,799,NULL,799,3.8,6,Men
+473,hm men green solid slim fit round necked t shirt,H&M,5,699,NULL,699,NULL,NULL,Men
+474,hm men blue relaxed fit t shirt,H&M,5,799,NULL,799,4.7,11,Men
+475,hm men grey loose jeans,H&M,3,1999,NULL,1999,NULL,NULL,Men
+476,forever 21 men grey sports shorts,FOREVER 21,2,999,NULL,999,NULL,NULL,Men
+477,forever 21 women black casual shirt,FOREVER 21,25,1299,NULL,1299,NULL,NULL,Women
+478,forever 21 women brown typography printed extended sleeves t shirt,FOREVER 21,32,599,NULL,599,NULL,NULL,Women
+479,forever 21 men grey solid joggers,FOREVER 21,4,2799,NULL,2799,NULL,NULL,Men
+480,forever 21 men black cargos trousers,FOREVER 21,1,1399,NULL,1399,NULL,NULL,Men
+481,forever 21 men navy blue joggers trousers,FOREVER 21,1,1399,NULL,1399,NULL,NULL,Men
+482,forever 21 men khaki joggers trousers,FOREVER 21,1,1399,NULL,1399,NULL,NULL,Men
+483,forever 21 men blue striped t shirt,FOREVER 21,5,1299,NULL,1299,NULL,NULL,Men
+484,forever 21 men navy blue t shirt,FOREVER 21,5,999,NULL,999,NULL,NULL,Men
+485,hm women white solid sports tights,H&M,11,1499,NULL,1499,NULL,NULL,Women
+486,hm women grey printed sports tights,H&M,29,1499,NULL,1499,NULL,NULL,Women
+487,hm yellow cropped hoodie,H&M,28,1999,NULL,1999,NULL,NULL,Women
+488,hm women blue solid mama dungaree shorts,H&M,21,2299,NULL,2299,NULL,NULL,Women
+489,hm women olive green calf length skirt,H&M,18,2299,NULL,2299,NULL,NULL,Women
+490,hm women white solid denim dungarees,H&M,21,2999,NULL,2999,NULL,NULL,Women
+491,hm blue ankle length dungarees,H&M,21,2999,NULL,2999,NULL,NULL,Women
+492,hm men beige bomber jacket,H&M,8,2299,NULL,2299,NULL,NULL,Men
+493,hm women black printed running jacket,H&M,23,2999,NULL,2999,NULL,NULL,Women
+494,hm women black solid hooded windbreaker,H&M,23,2299,NULL,2299,NULL,NULL,Women
+495,hm women plus size black skinny fit treggings,H&M,22,1499,NULL,1499,NULL,NULL,Women
+496,hm women black high waist sports tights,H&M,11,1499,NULL,1499,NULL,NULL,Women
+497,forever 21 women black striped casual shirt,FOREVER 21,25,1399,NULL,1399,NULL,NULL,Women
+498,forever 21 women multicoloured checked casual shirt,FOREVER 21,25,1399,NULL,1399,NULL,NULL,Women
+499,forever 21 women white printed casual shirt,FOREVER 21,25,1199,NULL,1199,NULL,NULL,Women
+500,forever 21 black round neck sleeveless top,FOREVER 21,30,999,NULL,999,NULL,NULL,Women
+501,forever 21 cream coloured tank top,FOREVER 21,30,1199,NULL,1199,NULL,NULL,Women
+502,forever 21 white regular top,FOREVER 21,30,999,NULL,999,NULL,NULL,Women
+503,forever 21 men maroon striped casual shirt,FOREVER 21,7,1599,NULL,1599,NULL,NULL,Men
+504,forever 21 men yellow striped casual shirt,FOREVER 21,7,1599,NULL,1599,NULL,NULL,Men
+505,forever 21 multicoloured colourblocked t shirt dress,FOREVER 21,36,999,NULL,999,NULL,NULL,Women
+506,forever 21 peach coloured bodycon mini dress,FOREVER 21,36,1199,NULL,1199,NULL,NULL,Women
+507,forever 21 white shirt mini dress,FOREVER 21,36,1799,NULL,1799,NULL,NULL,Women
+508,forever 21 men blue joggers trousers,FOREVER 21,1,1399,NULL,1399,NULL,NULL,Men
+509,forever 21 women grey sweatshirt,FOREVER 21,28,1799,20,1440,NULL,NULL,Women
+510,forever 21 women beige sweatshirt,FOREVER 21,28,1599,20,1280,NULL,NULL,Women
+511,forever 21 multicoloured tank crop top,FOREVER 21,30,849,50,425,NULL,NULL,Women
+512,forever 21 women black turtle neck crop pullover,FOREVER 21,27,1499,20,1200,NULL,NULL,Women
+513,forever 21 women black denim jacket with embroidered,FOREVER 21,23,2999,20,2400,NULL,NULL,Women
+514,hm women blue pure cotton 90s denim skirt,H&M,18,1999,NULL,1999,NULL,NULL,Women
+515,forever new women black high rise pleated trousers,Forever New,31,4600,NULL,4600,NULL,NULL,Women
+516,forever new multicoloured floral print off shoulder bardot top,Forever New,30,4400,NULL,4400,NULL,NULL,Women
+517,forever new pink smocked cinched waist top,Forever New,30,3600,NULL,3600,NULL,NULL,Women
+518,hm white oversized cotton shirt,H&M,25,1299,NULL,1299,NULL,NULL,Women
+519,hm green shirt with a sheen,H&M,25,1499,NULL,1499,NULL,NULL,Women
+520,hm women brown viscose skirt,H&M,18,1499,NULL,1499,NULL,NULL,Women
+521,hm women white cropped zip through hoodie,H&M,28,1299,NULL,1299,NULL,NULL,Women
+522,hm green oversized zip through hoodie,H&M,28,1999,NULL,1999,NULL,NULL,Women
+523,hm women blue boyfriend low regular jeans,H&M,24,2699,NULL,2699,NULL,NULL,Women
+524,u s polo assn women blue slim fit low distress light fade jeans,U.S. Polo Assn.,24,2499,NULL,2499,NULL,NULL,Women
+525,u s polo assn women black slim fit heavy fade jeans,U.S. Polo Assn.,24,2499,NULL,2499,NULL,NULL,Women
+526,u s polo assn women black jeans,U.S. Polo Assn.,24,2499,NULL,2499,NULL,NULL,Women
+527,faballey black maxi mini dress,FabAlley,36,2200,30,1540,NULL,NULL,Women
+528,faballey peach coloured crepe a line dress,FabAlley,36,2100,30,1470,NULL,NULL,Women
+529,faballey pink striped crepe shirt style top,FabAlley,30,1600,30,1120,NULL,NULL,Women
+530,faballey purple striped shirt style top,FabAlley,30,1400,30,980,NULL,NULL,Women
+531,faballey white georgette shirt style crop top,FabAlley,30,1400,NULL,1400,NULL,NULL,Women
+532,faballey white print georgette cinched waist top,FabAlley,30,1500,NULL,1500,NULL,NULL,Women
+533,faballey navy blue floral print georgette top,FabAlley,30,1500,30,1050,NULL,NULL,Women
+534,faballey off white checked top,FabAlley,30,1400,30,980,NULL,NULL,Women
+535,faballey blue georgette top,FabAlley,30,1500,NULL,1500,NULL,NULL,Women
+536,faballey blue georgette dress,FabAlley,36,2500,30,1750,NULL,NULL,Women
+537,faballey pink extended sleeves georgette shirt style top,FabAlley,30,1450,NULL,1450,NULL,NULL,Women
+538,faballey white floral georgette maxi dress,FabAlley,36,2600,30,1820,NULL,NULL,Women
+539,hm women black mom high denim shorts,H&M,26,1499,NULL,1499,NULL,NULL,Women
+540,hm women grey solid mom high ankle jeans,H&M,24,2299,NULL,2299,NULL,NULL,Women
