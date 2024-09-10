@@ -10,7 +10,7 @@ import pandas as pd
 def initialize():
     connection = psycopg2.connect(
         user = "postgres", #username that you use
-        password = "225588", #password that you use, you don't need to include your password when submiting your code
+        password = "*****", #password that you use, you don't need to include your password when submiting your code
         host = "localhost", 
         port = "5432", 
         database = "postgres"
